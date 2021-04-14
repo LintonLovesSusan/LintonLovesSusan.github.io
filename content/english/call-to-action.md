@@ -1,6 +1,6 @@
 ---
 title : "NEED A SERVICE?"
-bg_image : "images/backgrounds/need-service.jpg"
+bg_image : ""
 button:
   enable : true
   label : "SAY HELLO!"

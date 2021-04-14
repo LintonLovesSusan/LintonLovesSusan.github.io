@@ -3,7 +3,7 @@ title : "I'm Somrat Sorkar"
 # full screen navigation
 first_name : "MacGyver"
 last_name : "SOMRAT"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+bg_image : "https://z3.ax1x.com/2021/04/13/cygN7T.jpg"
 # animated text loop
 occupations:
 - "Web Developer"
@@ -12,9 +12,9 @@ occupations:
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
-- "images/slider/slider-2.jpg"
-- "images/slider/slider-3.jpg"
+- "https://z3.ax1x.com/2021/04/13/cygN7T.jpg"
+- "https://z3.ax1x.com/2021/04/13/cygN7T.jpg"
+- "https://z3.ax1x.com/2021/04/13/cygN7T.jpg"
 
 # button
 button:
