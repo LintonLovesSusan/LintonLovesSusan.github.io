@@ -97,7 +97,7 @@
         </li>
         {{ end }}
       </ul>
-      <!-- Language List -->
+      <!-- Language List 
       {{- if .IsTranslated }}
       <select id="select-language" onchange="location = this.value;">
         {{ $siteLanguages := site.Languages}}
@@ -118,6 +118,7 @@
         {{ end }}
       </select>
       {{ end }}
+	  Language List -->
       <!-- /desktop-menu -->
 
       <!-- mobile-menu -->
@@ -141,7 +142,7 @@
               </li>
               {{ end }}
             </ul>
-            <!-- Language List -->
+            <!-- Language List
             {{- if .IsTranslated }}
             <select class="ml-4" id="select-language" onchange="location = this.value;">
               {{ $siteLanguages := site.Languages}}
@@ -162,6 +163,7 @@
               {{ end }}
             </select>
             {{ end }}
+			 Language List -->
             <ul class="mobile-menu-icons list-inline">
               {{ range site.Params.social }}
               <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>

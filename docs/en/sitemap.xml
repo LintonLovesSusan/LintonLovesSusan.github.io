@@ -121,8 +121,6 @@
   </url><url>
     <loc>https://lintonlovessusan.github.io/funfacts/</loc>
   </url><url>
-    <loc>https://lintonlovessusan.github.io/banner/</loc>
-  </url><url>
     <loc>https://lintonlovessusan.github.io/about/</loc>
   </url><url>
     <loc>https://lintonlovessusan.github.io/call-to-action/</loc>
@@ -132,5 +130,7 @@
     <loc>https://lintonlovessusan.github.io/service/</loc>
   </url><url>
     <loc>https://lintonlovessusan.github.io/testimonial/</loc>
+  </url><url>
+    <loc>https://lintonlovessusan.github.io/banner/</loc>
   </url>
 </urlset>
