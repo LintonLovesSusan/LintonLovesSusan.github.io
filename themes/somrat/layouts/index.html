@@ -352,7 +352,7 @@
 {{ end }}
 <!-- End Portfolio -->
 
-<!-- Start Testimonials -->
+<!-- Start Testimonials 
 {{ with .GetPage "testimonial"}}
 <style>{{.Params.custom_css | safeCSS}}</style>
 <section class="testimonials {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="testimonial">
@@ -379,7 +379,7 @@
 {{ end }}
 <!-- End Testimonials -->
 
-<!-- funfacts -->
+<!-- funfacts 
 {{ with .GetPage "funfacts"}}
 <style>{{.Params.custom_css | safeCSS}}</style>
 <section class="wow fadeInUp section-sm {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} data-wow-duration="1.5s">
@@ -409,7 +409,7 @@
 <style>{{.Params.custom_css | safeCSS}}</style>
 <section class="contact {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} style="background-image: url('{{.Params.bg_image | absURL}}');" id="contact">
   <div class="container">
-    <div class="row">
+    <!-- <div class="row">
       <div class="contact-holder col-lg-8 offset-lg-2 col-sm-8 offset-sm-2">
         <h1 class="wow fadeInUp" data-wow-duration="1.5s">{{ .Title | markdownify}}</h1>
         <form method="POST" action="{{ .Params.form_action }}" data-toggle="validator">
@@ -434,7 +434,7 @@
           </div>
         </form>
       </div>
-    </div>
+    </div>-->
     <div class="row">
       <div class="footer col-lg-10 offset-lg-1">
         <hr>

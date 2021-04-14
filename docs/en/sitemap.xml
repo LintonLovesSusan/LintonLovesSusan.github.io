@@ -39,6 +39,19 @@
     <loc>https://lintonlovessusan.github.io/categories/development/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>https://lintonlovessusan.github.io/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lintonlovessusan.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lintonlovessusan.github.io/"
+                />
+  </url><url>
     <loc>https://lintonlovessusan.github.io/categories/logo/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
@@ -71,19 +84,6 @@
   </url><url>
     <loc>https://lintonlovessusan.github.io/categories/sketch/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://lintonlovessusan.github.io/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lintonlovessusan.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lintonlovessusan.github.io/"
-                />
   </url><url>
     <loc>https://lintonlovessusan.github.io/tags/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
