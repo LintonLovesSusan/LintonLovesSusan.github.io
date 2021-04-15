@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "linton-loves-susan-github-io-lintonlovessusan.vercel.app"
+baseURL = "https://lintonlovessusan.github.io/"
 title = "Just Linton | 个人首页"
 theme = "somrat"
 # post pagination
